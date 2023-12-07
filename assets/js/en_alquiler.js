@@ -10,7 +10,7 @@ const propiedades_alquiler = [
         costo: 2000,
         smoke: false,
         pets: true
-     }
+     },
 
      {
         nombre: "Apartamento luminoso con vista al mar",
@@ -22,7 +22,7 @@ const propiedades_alquiler = [
         costo: 2500,
         smoke: true,
         pets: true
-     }
+     },
 
      {
         nombre: "Condominio moderno en zona residencial",
@@ -34,7 +34,7 @@ const propiedades_alquiler = [
         costo: 2200,
         smoke: false,
         pets: false
-     }
+     },
 
      {
         nombre: "Condominio moderno en zona residencial",

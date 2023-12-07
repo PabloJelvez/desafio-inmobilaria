@@ -9,7 +9,7 @@ const propiedades_venta = [
         costo: 5000,
         smoke: false,
         pets: false
-     }
+     },
 
      {
         nombre: "Apartamento acogedor en la montaña",
@@ -21,7 +21,7 @@ const propiedades_venta = [
         costo: 1200,
         smoke: true,
         pets: true
-     }
+     },
 
      {
         nombre: "Penthouse de lujo con terraza panorámica",
@@ -33,7 +33,7 @@ const propiedades_venta = [
         costo: 4500,
         smoke: false,
         pets: true
-     }
+     },
 
      {
         nombre: "Penthouse de lujo con terraza panorámica",
